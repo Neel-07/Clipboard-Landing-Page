@@ -3,3 +3,23 @@
     padding:0;
     box-sizing: border-box;
 }
+
+body{
+    background-image: url('./images/bg-header-desktop.png');
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+header{
+    padding-top:2rem;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    font-family: "Bai Jamjuree", sans-serif;
+}
+
+header img{
+    height:80px;
+    width:80px;
+    
+}
