@@ -65,3 +65,29 @@ header p{
     text-align:center;
     line-height:1.5;
 }
+
+
+.snippets{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Bai Jamjuree", sans-serif;
+}
+
+
+.snippets h2{
+    font-size:1.9rem;
+    padding-top:3rem;
+    color:hsl(210, 10%, 33%);
+    font-weight: 600;
+}
+
+.snippets p{
+    padding-top:15px;
+    font-size:18px;
+    color:hsl(201, 11%, 66%);
+    font-weight: 400;
+    text-align:center;
+    line-height:1.5;
+}
