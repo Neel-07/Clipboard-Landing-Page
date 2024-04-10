@@ -90,6 +90,7 @@ header p{
     font-weight: 400;
     text-align:center;
     line-height:1.5;
+    padding-bottom:4rem;
 }
 
 .features {
@@ -97,5 +98,29 @@ header p{
 }
 
 .features img{
-   margin-left:-30px;
+   margin-left:-6rem;
 }
+
+.list{
+   margin-left:6rem;
+   margin-top:2.5rem;
+}
+
+.list h3{
+    font-size:25px;
+    font-family: "Bai Jamjuree", sans-serif;
+    color:hsl(210, 10%, 33%);
+    padding:1rem;
+    padding-bottom:0.45rem;
+    font-weight: 600;
+}
+
+.list p{
+    font-family: "Bai Jamjuree", sans-serif;
+    color:hsl(201, 11%, 66%);
+    padding:1rem;
+    padding-top:0.1rem;
+    padding-bottom:3rem;
+    line-height:1.7;
+}
+
