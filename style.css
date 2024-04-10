@@ -124,3 +124,24 @@ header p{
     line-height:1.7;
 }
 
+.clipboard{
+    display:flex;
+    flex-direction: column;
+    align-items:center ;
+}
+
+.clipboard h2{
+    font-family: "Bai Jamjuree", sans-serif;
+    font-weight:600;
+    font-size: 2.3rem;
+    padding-top:8rem;
+}
+
+.clipboard p{
+    font-family: "Bai Jamjuree", sans-serif;
+    color:hsl(201, 11%, 66%);
+    font-size:18px;
+    text-align:center;
+    line-height:1.7;
+    padding: 1rem;
+}
