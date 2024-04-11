@@ -178,3 +178,17 @@ header p{
     padding: 1rem;
     padding-bottom:4rem;
 }
+
+.feat{
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 4rem;
+}
+
+.feat h3{
+    font-family: "Bai Jamjuree", sans-serif;
+    font-weight:600;
+    font-size: 1.2rem;
+    padding-top:2rem;
+}
