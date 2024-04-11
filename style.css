@@ -154,3 +154,27 @@ header p{
     margin-top: 2rem;
     margin-right:20px;
 }
+
+
+.workflow{
+    display:flex;
+    flex-direction: column;
+    align-items:center ;
+}
+
+.workflow h2{
+    font-family: "Bai Jamjuree", sans-serif;
+    font-weight:600;
+    font-size: 2.3rem;
+    padding-top:2rem;
+}
+
+.workflow p{
+    font-family: "Bai Jamjuree", sans-serif;
+    color:hsl(201, 11%, 66%);
+    font-size:18px;
+    text-align:center;
+    line-height:1.7;
+    padding: 1rem;
+    padding-bottom:4rem;
+}
