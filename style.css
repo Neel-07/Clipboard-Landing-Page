@@ -184,15 +184,44 @@ header p{
   flex-direction: row;
   justify-content: center;
   padding: 4rem;
+  gap:4rem;
 }
 
+.one_1{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.two_2{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.three_3{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.feat p{
+    text-align: center;
+    font-family: "Bai Jamjuree", sans-serif;
+    color:hsl(201, 11%, 66%);
+    padding-top: 1.2rem;
+    line-height: 1.7;
+}
 .feat h3{
     font-family: "Bai Jamjuree", sans-serif;
     font-weight:600;
     font-size: 1.2rem;
     padding-top:2rem;
 }
-
+.one_1 h3{
+    margin-top:-7px;
+}
 .image_cont{
     display:flex;
     gap:5rem;
