@@ -211,6 +211,7 @@ header p{
     flex-direction:column;
     align-items:center;
     font-family: "Bai Jamjuree", sans-serif;
+    margin-bottom: 8rem;
 }
 
 
@@ -231,6 +232,34 @@ header p{
     font-weight: 600;
 }
 
+
+
+footer{
+    margin-top: 4rem;
+    background-color: rgba(237, 243, 244, 0.772);
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 4rem;
+    padding:3rem 0rem;
+}
+
+footer .content{
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    font-family: "Bai Jamjuree", sans-serif;
+    font-weight: 600;
+    color:hsl(201, 11%, 66%);
+    font-size:1.2rem;
+    row-gap: 2rem;
+    column-gap: 4rem;
+}
+
+footer .socials{
+    display:flex;
+    align-items:center;
+    gap:2rem;
+}
 /* .foot p:last-child{
     padding-top:15px;
     font-size:18px;
