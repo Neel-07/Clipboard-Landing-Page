@@ -330,6 +330,7 @@ footer .content span:hover{
     color:hsl(171, 66%, 44%);
 }
 
-footer .socials img:hover{
+ .socials  img:hover{
     cursor:pointer;
+    fill:#33ECF5;
 }    
