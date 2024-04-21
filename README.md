@@ -18,7 +18,7 @@ This Clipboard Landing Page project aimed to create a visually compelling and in
 
 ### Live Preview
 
-See the live version of the landing page here:[Click Here]()
+See the live version of the landing page here:[Click Here](https://neel-07.github.io/Clipboard-Landing-Page/)
 
 ## My Process
 
