@@ -330,7 +330,27 @@ footer .content span:hover{
     color:hsl(171, 66%, 44%);
 }
 
- .socials  img:hover{
+ /* .social_content:hover .social_icon{
     cursor:pointer;
-    fill:#33ECF5;
-}    
+    fill: hsl(171, 56%, 59%);
+}     */
+
+footer img:hover {
+    filter: invert(53%) sepia(73%) saturate(437%) hue-rotate(122deg) brightness(101%) contrast(87%);
+}
+  
+
+@media screen and (max-width: 700px) {
+    body{
+        min-width: 100vw;
+    }
+    .buttons{
+        display:flex;
+        flex-direction: column;
+    }
+
+    
+}
+
+  
+  
